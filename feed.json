@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My Portfolio",
+    "description": "",
+    "home_page_url": "https://BigBowlORice.Github.io",
+    "feed_url": "https://BigBowlORice.Github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "BowlORice"
+    },
+    "items": [
+        {
+            "id": "https://BigBowlORice.Github.io/this-is-my-portfolio.html",
+            "url": "https://BigBowlORice.Github.io/this-is-my-portfolio.html",
+            "title": "This is my portfolio",
+            "summary": "Here are examples of my work",
+            "content_html": "\n    <h3 id=\"here-are-examples-of-my-work\" class=\"align-center\">\n      Here are examples of my work\n    </h3>\n<hr class=\"separator separator--long-line\" />\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"Media/files/Portfolio.mp4\" title=\"Vido\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe></div></div>",
+            "image": "https://BigBowlORice.Github.io/media/posts/1/OtherDog.png",
+            "author": {
+                "name": "BowlORice"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-08T15:33:06-05:00",
+            "date_modified": "2026-07-08T15:53:05-05:00"
+        }
+    ]
+}

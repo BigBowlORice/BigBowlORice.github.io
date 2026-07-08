@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>My Portfolio</title>
+    <link href="https://BigBowlORice.Github.io/feed.xml" rel="self" />
+    <link href="https://BigBowlORice.Github.io" />
+    <updated>2026-07-08T15:53:05-05:00</updated>
+    <author>
+        <name>BowlORice</name>
+    </author>
+    <id>https://BigBowlORice.Github.io</id>
+
+    <entry>
+        <title>This is my portfolio</title>
+        <author>
+            <name>BowlORice</name>
+        </author>
+        <link href="https://BigBowlORice.Github.io/this-is-my-portfolio.html"/>
+        <id>https://BigBowlORice.Github.io/this-is-my-portfolio.html</id>
+        <media:content url="https://BigBowlORice.Github.io/media/posts/1/OtherDog.png" medium="image" />
+
+        <updated>2026-07-08T15:33:06-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://BigBowlORice.Github.io/media/posts/1/OtherDog.png" alt="" />
+                    Here are examples of my work
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://BigBowlORice.Github.io/media/posts/1/OtherDog.png" class="type:primaryImage" alt="" /></p>
+                
+    <h3 id="here-are-examples-of-my-work" class="align-center">
+      Here are examples of my work
+    </h3>
+<hr class="separator separator--long-line" />
+<div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="Media/files/Portfolio.mp4" title="Vido" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>
